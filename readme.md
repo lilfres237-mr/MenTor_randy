@@ -116,4 +116,6 @@ Contributions are welcome! Please feel free to fork the repository, create pull 
 
 If you encounter any issues or have questions, please open an issue on the GitHub repository. (Note: Assuming a GitHub repository for support.)
 
+📋 Changelog (Optional – You Can Add This Section)
 
+Improvements Added in Fork, Improved README formatting and clarity, Added installation steps with more detail,Added project structure diagram, Cleaned up feature list and descriptions
